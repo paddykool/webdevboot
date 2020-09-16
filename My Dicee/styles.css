@@ -1,0 +1,38 @@
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  font-family: "Oleo Script";
+  font-size: 7rem;
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+  display: inline-block;
+}
+
+h2 {
+  font-family: 'Architects Daughter';
+}
+
+.header {
+  margin: 50px 50px ;
+  text-align: center;
+}
+
+.header-icon {
+  color: red;
+}
+
+.dice-image {
+  width: 200px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .align-center {
+    text-align: center;
+  }
+}
